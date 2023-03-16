@@ -1,16 +1,8 @@
 # Anteproyecto
 
-> NOTA: Incluir diagramas donde proceda (diagramas de clases, casos de uso, entidad relación, ...).
-
 ## OBJETIVOS
 
-*[TODO] Se indicará de forma genérica y sin entrar en concreciones el objetivo
-que se pretende alcanzar al realizar el proyecto. Se indicará igualmente donde
-será utilizado el proyecto obtenido.*
-
-## PREANALISIS DE LO EXISTENTE (Opcional)
-
-*[TODO] Si procede, se informará brevemente sobre el funcionamiento del sistema actual. El que vamos a reemplazar o a mejorar. Este sistema no tiene por qué estar necesariamente automatizado pudiendo realizarse actualmente de forma manual por personas.*
+El objetivo de este proyecto será poder registrar nuestro armario de forma virtual, almacenando nuestras prendas, complementos y zapatos de manera que podamos crear "outfits" sin necesidad de verlas en persona. Adicionalmente, también se podrán usar aquellas que estén disponibles en tienda y deseemos comprarlas, pues se dispondrá de una lista de deseos.
 
 ## ANÁLISIS DEL SOFTWARE
 
