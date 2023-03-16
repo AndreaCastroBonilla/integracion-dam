@@ -20,4 +20,4 @@ El objetivo de este proyecto será poder registrar nuestro armario de forma virt
 
 ## ESTIMACIÓN DE COSTES
 
-*[TODO] Estimar el coste que representará la creación del proyecto. Esta estimación será temporal y/o económica si procede (costes de contratación de servicios en la nube, por ejemplo).*
+La creación de este proyecto solo contará con un coste temporal de dos meses aproximadamente, pues no es necesario la contratación de ningún servicio.
