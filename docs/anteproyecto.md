@@ -2,7 +2,7 @@
 
 ## OBJETIVOS
 
-El objetivo de este proyecto será poder registrar nuestro armario de forma virtual, almacenando nuestras prendas, complementos y zapatos de manera que podamos crear "outfits" sin necesidad de verlas en persona. Adicionalmente, también se podrán usar aquellas que estén disponibles en tienda y deseemos comprarlas, pues se dispondrá de una lista de deseos.
+
 
 ## ANÁLISIS DEL SOFTWARE
 
@@ -20,4 +20,3 @@ El objetivo de este proyecto será poder registrar nuestro armario de forma virt
 
 ## ESTIMACIÓN DE COSTES
 
-La creación de este proyecto solo contará con un coste temporal de dos meses aproximadamente, pues no es necesario la contratación de ningún servicio.
