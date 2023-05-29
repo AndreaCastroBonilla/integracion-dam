@@ -31,8 +31,15 @@ Todas las Activities tienen un layout general donde se encapsulan los distintos 
 
 ## IMPLEMENTACIÓN
 
-En la implementación se ha usado exclusivamente Java como lenguaje de programación. En líneas generales, todas las clases cuentan con un método para navegar por las opciones del menú *(onNavigationItemSelected(@NonNull MenuItem item))* y una constante que actúa como ID para asignarles un orden *(private final static int CONT_ACTIVIDAD = 0;)*. Particularidades a destacar:
+En la implementación se ha usado exclusivamente Java como lenguaje de programación. En líneas generales, todas las clases cuentan con un método para navegar por las opciones del menú 
 
+    onNavigationItemSelected(@NonNull MenuItem item) 
+    
+y una constante que actúa como ID para asignarles un orden.
+  
+    private final static int CONT_ACTIVIDAD = 0;
+
+Particularidades a destacar:
 ### Closet
   1. *Permiso para acceder a la cámara en el AndroidManifest.xml.*
   2. *Métodos para abrir la cámara, comprobar los permisos y mostar la foto.*
