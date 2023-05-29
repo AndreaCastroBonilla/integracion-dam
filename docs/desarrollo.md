@@ -37,12 +37,20 @@ En la implementación se ha usado exclusivamente Java como lenguaje de programac
   1. *Permiso para acceder a la cámara en el AndroidManifest.xml.*
   2. *Métodos para abrir la cámara, comprobar los permisos y mostar la foto.*
   
-    - *goToCamera(), onActivityResult(int requestCode, int resultCode, @Nullable Intent data), onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults)*
+    goToCamera(), onActivityResult(int requestCode, int resultCode, @Nullable Intent data), onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults)
 
 ### Wish List
   1. *Método para controlar la validez de los parámetros indoducidos en la lista, no pudiendo ser estos vacíos.*
   
-    - *onClick(View v)*
+    onClick(View v)
   2. *Método para limpiar los campos una vez los datos introducidos sean correctos.*
   
-    - *clean()*
+    clean()
+  3. *Clase DBCloset.java encargada de definir la estructura de la base de datos, hija de DBHelper.class, clase donde se implementaron los métodos para crearla y actualizarla.*
+    ![estructura](https://github.com/AndreaCastroBonilla/integracion-dam/assets/96080740/3f815090-3d71-4720-b11a-6d752404839f)
+
+### Filter
+  1. *Clase Adapter.java que se emplea para definir la manera en la que se mostrarán los datos en el RecyclerView mediante el uso de un ArrayList de Clothes.java, que establece, a su vez, la estructura que tendrá cada prenda almacenada (id, nombre de la tienda, descripción y precio).*
+
+### Map y Weather
+  1. *WebView para incrustar la vista del [mapa](https://www.google.com/maps/@28.30421,-16.5235068,10.3z?authuser=1), así como la del [tiempo](https://www.aemet.es/es/eltiempo/prediccion/municipios/tacoronte-id38043).*
