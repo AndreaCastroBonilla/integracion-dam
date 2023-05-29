@@ -14,3 +14,4 @@ Los bocetos de las actividades fueron realizados a papel. En la elección de la 
     - Canva: https://www.canva.com/es_es/
 
 ![Peaky Blinders](https://github.com/AndreaCastroBonilla/integracion-dam/assets/96080740/6a489814-e537-4cf0-8b53-043090d3ffec)
+![icono512x512](https://github.com/AndreaCastroBonilla/integracion-dam/assets/96080740/ed90b3fb-f084-4fde-a6f2-a70a64ed0f51)
