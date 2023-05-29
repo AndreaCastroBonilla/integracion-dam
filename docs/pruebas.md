@@ -12,4 +12,4 @@ El error más evidente es que no se almacenan las fotos (en un GridView, por eje
 ## PRUEBAS
 
 Se ha elaborado un estudio de pruebas elaboradas por usurarios y la desarrolladora de la aplicación, recogido en el siguiente archivo.
-[PruebasUsuarios_AndreaCastroBonilla.pdf](https://github.com/AndreaCastroBonilla/integracion-dam/files/11590908/PruebasUsuarios_AndreaCastroBonilla.pdf)
+[Pruebas_AndreaCastroBonilla.pdf](https://github.com/AndreaCastroBonilla/integracion-dam/files/11590932/Pruebas_AndreaCastroBonilla.pdf)
