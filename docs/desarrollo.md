@@ -36,10 +36,13 @@ En la implementación se ha usado exclusivamente Java como lenguaje de programac
 ### Closet
   1. *Permiso para acceder a la cámara en el AndroidManifest.xml.*
   2. *Métodos para abrir la cámara, comprobar los permisos y mostar la foto.*
+  
     - *goToCamera(), onActivityResult(int requestCode, int resultCode, @Nullable Intent data), onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults)*
 
 ### Wish List
   1. *Método para controlar la validez de los parámetros indoducidos en la lista, no pudiendo ser estos vacíos.*
+  
     - *onClick(View v)*
   2. *Método para limpiar los campos una vez los datos introducidos sean correctos.*
+  
     - *clean()*
