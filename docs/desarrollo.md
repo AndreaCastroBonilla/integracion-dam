@@ -24,7 +24,20 @@ El inicio de la aplicación cargará mediante una SplashScreen; mientras que, la
 Todas las Activities tienen un layout general donde se encapsulan los distintos elementos, dependiendo de su función. Uno de ellos será el título, idéntico en todas -> color:`#86AABA` | fuente: *cursive*
 
   -	**Closet:** *FrameLayout [TextView, ImageView, FabButton]*
-  -	**Wish List:** *LinearLayoutg [TextView, EditText, Button]*
+  -	**Wish List:** *LinearLayout [TextView, EditText, Button]*
   -	**Filter:** *LinearLayout [TextView, RecyclerView]*
   -	**Map:** *ConstraintLayout [WebView]*
   -	**Weather:** *ConstraintLayout [WebView]* 
+
+
+@Override
+    public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
+        if(requestCode == REQUEST_PERMISSION_CAMERA) {
+            if(permissions.length > 0 && grantResults[0] == PackageManager.PERMISSION_GRANTED) {
+                goToCamera();
+            } else {
+                Toast.makeText(this, "You need to enable permissions", Toast.LENGTH_LONG).show();
+            }
+        }
+        super.onRequestPermissionsResult(requestCode, permissions, grantResults);
+    }
