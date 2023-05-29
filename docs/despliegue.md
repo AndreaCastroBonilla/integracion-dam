@@ -1,4 +1,4 @@
-# Instalación
+# 📲 Instalación
 
 ## GENERAR APK
 Para generar el instalador desde Android Studio:
