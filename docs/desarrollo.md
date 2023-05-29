@@ -8,7 +8,7 @@ Los bocetos de las actividades fueron realizados a papel. En la elección de la 
   + **Iconos:** *[FlatIcon](https://www.flaticon.com/)*
   + **Logo:** *[Canva](https://www.canva.com/es_es/)*
   
-En cuanto al diseño funcional de la aplicación, se empleó StarUML para la creación de diagramas, además de esquemas orientativos.
+En cuanto al diseño funcional de la aplicación, se empleó [StarUML](https://staruml.io/) para la creación de diagramas, además de esquemas orientativos y [DB Browser for SQLite](https://sqlitebrowser.org/) para la base de datos. 
 
 ![Peaky Blinders](https://github.com/AndreaCastroBonilla/integracion-dam/assets/96080740/107efdb3-06bf-4897-9802-ac9c00310e8a)
 ![icono](https://github.com/AndreaCastroBonilla/integracion-dam/assets/96080740/feaff228-ad20-4d7b-b6fa-d33e924cdf45)
@@ -28,5 +28,9 @@ Todas las Activities tienen un layout general donde se encapsulan los distintos 
   -	**Filter:** *LinearLayout [TextView, RecyclerView]*
   -	**Map:** *ConstraintLayout [WebView]*
   -	**Weather:** *ConstraintLayout [WebView]* 
+
+## IMPLEMENTACIÓN
+
+En la implementación se ha usado exclusivamente Java como lenguaje de programación. En líneas generales -obviando las particularidades-, todas las clases cuentan con un método para navegar por las opciones del menú *(onNavigationItemSelected(@NonNull MenuItem item))* y una constante que actúa como ID para asignarles un orden *(private final static int CONT_ACTIVIDAD = 0;)*
 
 
