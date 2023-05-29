@@ -11,6 +11,6 @@ Para instalar el APK en nuestro dispositivo:
   3. *Ejecutarlo (esto comenzará una instalación como cualquier otra aplicación).*
   4. *Enjoy! 🌷*
 
-> [MyCloset.zip](https://github.com/AndreaCastroBonilla/integracion-dam/files/11590936/MyCloset.zip)
+> [MyClosetAPK.zip](https://github.com/AndreaCastroBonilla/integracion-dam/files/11591467/MyClosetAPK.zip)
 
-> [ManualInstalación_AndreaCastroBonilla.pdf](https://github.com/AndreaCastroBonilla/integracion-dam/files/11591397/ManualInstalacion_AndreaCastroBonilla.pdf)
+> [ManualInstalación_MyCloset.pdf](https://github.com/AndreaCastroBonilla/integracion-dam/files/11591397/ManualInstalacion_AndreaCastroBonilla.pdf)
