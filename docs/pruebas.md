@@ -1,7 +1,15 @@
 # Pruebas
 
-Detección de fallos cometidos en las etapadas anteriores para corregirlos. Elaborar planes de pruebas a distintos niveles: pruebas unitarias, pruebas de integración, pruebas con usuarios, ...
+## FALLOS
 
-Incluye en este apartado la documentación de las pruebas que te planteas realizar.
+El error más evidente es que no se almacenan las fotos (en un GridView, por ejemplo) ni se pueden crear filtros para los conjuntos ya terminados. Además, fue necesario descargar una versión de resguardo de GitHub debido a un error al modificar las propiedades de las vistas; y de esta, a su vez, crear un nuevo repositorio.
 
-También la documentación resultante de las pruebas realizadas con la confimación de su correcto funcionamiento y las conclusiones que se puedan extraer de las mismas. 
+## MEJORAS
+
+  1. *Contador de usos para cada prenda, complemento, accesorio o zapato.*
+  2. *Añadir un escáner en el marco del armario para automatizar la disponibilidad de cada prenda.*
+
+## PRUEBAS
+
+Se ha elaborado un estudio de pruebas elaboradas por usurarios y la desarrolladora de la aplicación, recogido en el siguiente archivo.
+[PruebasUsuarios_AndreaCastroBonilla.pdf](https://github.com/AndreaCastroBonilla/integracion-dam/files/11590908/PruebasUsuarios_AndreaCastroBonilla.pdf)
