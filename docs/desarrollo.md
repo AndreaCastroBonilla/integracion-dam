@@ -48,7 +48,7 @@ En la implementación se ha usado exclusivamente Java como lenguaje de programac
     clean()
   3. *Clase DBCloset.java encargada de definir la estructura de la base de datos, hija de DBHelper.class, clase donde se implementaron los métodos para crearla y actualizarla.*
   
-    ![estructura](https://github.com/AndreaCastroBonilla/integracion-dam/assets/96080740/3f815090-3d71-4720-b11a-6d752404839f)
+  ![estructura](https://github.com/AndreaCastroBonilla/integracion-dam/assets/96080740/3f815090-3d71-4720-b11a-6d752404839f)
 
 ### Filter
   1. *Clase Adapter.java que se emplea para definir la manera en la que se mostrarán los datos en el RecyclerView mediante el uso de un ArrayList de Clothes.java, que establece, a su vez, la estructura que tendrá cada prenda almacenada (id, nombre de la tienda, descripción y precio).*
