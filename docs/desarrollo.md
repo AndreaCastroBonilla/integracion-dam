@@ -55,3 +55,7 @@ En la implementación se ha usado exclusivamente Java como lenguaje de programac
 
 ### Map y Weather
   1. *WebView para incrustar la vista del [mapa](https://www.google.com/maps/@28.30421,-16.5235068,10.3z?authuser=1), así como la del [tiempo](https://www.aemet.es/es/eltiempo/prediccion/municipios/tacoronte-id38043).*
+
+
+### - Extras
+Para dudas y consulta de código procedente de fuentes externas se ha consultado [Stack OverFlow](https://stackoverflow.com/) y [YouTube](https://www.youtube.com/).
