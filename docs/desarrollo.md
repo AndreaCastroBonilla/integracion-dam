@@ -21,6 +21,10 @@ El inicio de la aplicación cargará mediante una SplashScreen; mientras que, la
   -	**Map:** *nos llevará al mapa para buscar las tiendas más cercanas.*
   -	**Weather:** *permitirá saber el tiempo en nuestra localización de destino.*
 
-Todas las Activities tienen un layout general donde se encapsulan los distintos elementos, dependiendo de su función. Uno de ellos será el título, idéntico en todas.
+Todas las Activities tienen un layout general donde se encapsulan los distintos elementos, dependiendo de su función. Uno de ellos será el título, idéntico en todas -> color:`#86AABA` | fuente: *cursive*
 
-  color:`#86AABA` | fuente: *cursive*
+  -	**Closet:** *FrameLayout [TextView, ImageView, FabButton]*
+  -	**Wish List:** *LinearLayoutg [TextView, EditText, Button]*
+  -	**Filter:** *LinearLayout [TextView, RecyclerView]*
+  -	**Map:** *ConstraintLayout [WebView]*
+  -	**Weather:** *ConstraintLayout [WebView]* 
