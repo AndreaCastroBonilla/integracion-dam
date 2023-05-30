@@ -44,7 +44,7 @@ Particularidades a destacar:
   1. *Permiso para acceder a la cámara en el AndroidManifest.xml.*
 
     <uses-permission android:name="android.permission.CAMERA"/>
-  3. *Métodos para abrir la cámara, comprobar los permisos y mostar la foto.*
+  2. *Métodos para abrir la cámara, comprobar los permisos y mostar la foto.*
   
     goToCamera(), onActivityResult(int requestCode, int resultCode, @Nullable Intent data), onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults)
 
